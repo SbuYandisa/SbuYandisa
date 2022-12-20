@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My name is Yandisa Madinga from South Africa
+
+
+### I am a Software and Data Analysis Enthusiast
+![image](https://user-images.githubusercontent.com/53038571/208651187-d29a3289-0f92-46db-a3f8-98f43648f1f6.png)
+### I am currently working as a Programmer
+
