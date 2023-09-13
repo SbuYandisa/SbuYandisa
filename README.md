@@ -21,4 +21,12 @@ Here are some ideas to get you started:
 ### I am a Software Development and Data Analysis Enthusiast
 ![image](https://user-images.githubusercontent.com/53038571/208651187-d29a3289-0f92-46db-a3f8-98f43648f1f6.png)
 ### I am currently working as a Programmer
+### My programming languages:
+- HTML
+- CSS
+- JavaScript
+- Python
+- Java
+- PL/SQL
+  
 
