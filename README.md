@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 
 ### I am a Software Development and Data Analysis Enthusiast
-![image]((https://lh3.googleusercontent.com/YiHxHCxngm1kn_yoHW45Utlrgy86ijRJDdnKS2zRgURzi-YgVKOEtNf6AHMNnFGYrmxrmLVxIwdR-gkU4euzV7B3h4vL6V3rLR6e0Fj8uND_MLJes6oT-EzuG5qyVD855qELsnPdJ2Iq0SbA6A))
 ### I am currently working as a Programmer mostly working with:
 -  PL/SQL
 -  SQL
@@ -34,7 +33,7 @@ Here are some ideas to get you started:
 - Java
 - PL/SQL
 
-### Tools that love using:
+### Tools that I love using:
 - PL/SQL Developer
 - React.js
 - JIRA
@@ -42,6 +41,7 @@ Here are some ideas to get you started:
 - GitHub
 - Excel
 - R Studio
+- ChatGPT
 
   
 
