@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 - GitHub
 - Excel
 - R Studio
+- Visual Studio Code
 - ChatGPT
 
   
